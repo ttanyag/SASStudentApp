@@ -1,1 +1,1 @@
-# ttanyag.github.io/SASStudentApp
+# ttanyag.github.io.SASStudentApp
