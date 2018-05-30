@@ -1,1 +1,0 @@
-# ttanyag.github.io
